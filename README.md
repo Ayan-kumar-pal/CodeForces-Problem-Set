@@ -1,6 +1,6 @@
 ## Hello, Codeforces!
 <!-- *** -->
-Get stuck while practicing, then check the solution here :)
+Get stuck while practicing, then check the solution here 🙂
 
 All past <a href = "https://codeforces.com/problemset?order=BY_RATING_ASC">**Codeforces Problem Links**</a> and their solutions in your fingertips ✌
 
